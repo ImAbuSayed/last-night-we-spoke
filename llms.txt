@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/last-night-we-spoke/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Last Night We Spoke](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/last-night-we-spoke/) |
+| **Get License** | [Commercial Licensing for Last Night We Spoke](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/last-night-we-spoke/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2879)
 
 ---
 
