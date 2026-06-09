@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Last Night We Spoke
+
+This log tracks the cryptographic history and versioning for the song **Last Night We Spoke** (last-night-we-spoke).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-09T17:31:34.192888 | `v1` | `4054c810ebd1fc291e679e05ce10e484d78e8708e274eceda78bd984be2a5a66` | `9a980c2075796e560b23ab44b6bbad116a94d35903c700511024fb62c03a36c7` | `2026-06-09_last-night-we-spoke-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

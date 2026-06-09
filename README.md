@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/last-night-we-spoke/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Last Night We Spoke](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/last-night-we-spoke/) |
+| **Get License** | [Secure Licensing Rights for Last Night We Spoke](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/last-night-we-spoke/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4054c810ebd1fc291e679e05ce10e484d78e8708e274eceda78bd984be2a5a66` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
