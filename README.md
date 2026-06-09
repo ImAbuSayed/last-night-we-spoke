@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/last-night-we-spoke/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Last Night We Spoke](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/last-night-we-spoke/) |
+| **Get License** | [Commercial Licensing for Last Night We Spoke](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/last-night-we-spoke/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> When the moon hangs low and the fire burns down
+> I can still feel your breath on my skin
+> It’s a long dirt road to the edge of town
+> But tonight I’m letting you in
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
